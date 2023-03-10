@@ -1,4 +1,4 @@
-# Deploy k8s
+# Deploy k8s 🚀 
 
 ## Pre requirements
 * 3 VPS (CPU 2: RAM 4gb: HDD 40gb)
